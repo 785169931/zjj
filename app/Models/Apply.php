@@ -30,6 +30,7 @@ class Apply extends Model
     const LS  = 2;
     const RQ  = 3;
 
+
     const TYPE = [
         self::HZP => '化妆品',
         self::LS  => '零食',
